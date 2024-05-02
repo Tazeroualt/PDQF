@@ -1,0 +1,22 @@
+#python environement
+alz
+
+#vscode files
+DQF.code-workspace
+
+#various files
+logs/
+.ipynb_checkpoints
+temp.py
+
+fill_y.py
+injection/app.py
+injection/final_metrics.csv
+injection/final_metrics_adjusted.csv
+injection/graph.csv
+injection/st_temp.py
+maquette(1).rar
+maquette(1)/
+
+#storage of dbt json files (run results)
+dbt_run_data/
